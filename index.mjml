@@ -1,0 +1,124 @@
+<mjml>
+<mj-head>
+    <mj-attributes>
+        <mj-text color="white" font-family="calibri" align="center" font-weight="300" line-height="1.3"/>
+        <mj-image padding="0px" />
+        <mj-section padding="0px" />
+    </mj-attributes>
+    <!-- stytle the link -->
+    <mj-style inline="inline">
+        .no-style{color:inherit; text-decoration:none;}
+    </mj-style>
+    
+    <mj-style>
+        @media (max-width:480px){
+            .text-cap{font-size:15px}
+        }
+    </mj-style>
+</mj-head>
+<mj-body background-color="#0A1E32">
+    <!-- Logo -->
+    <mj-section padding-top="30px">
+<mj-column>
+    <mj-image width="166px" href="https://www.cloudkettle.com/" target="blank" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/bfe98026-d447-45aa-abdb-eec62b3eaf03.png" alt="logo" />
+    <mj-image padding-top="50px" width="564px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/e4d01560-355d-47fd-8133-36f6861a6ec8.jpeg" alt="Made for the Mess" />
+<mj-image padding-top="30px" width="564px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/8ccd8898-8f1e-4bfa-b2dd-efcf4fe1b1d9.jpeg" alt="running people" />
+    <mj-text padding-top="25px" font-size="22px" line-height="1.3" color="#FFFFFF">
+        <div class="text-cap">The world can be messy. Make mud and meltwater the least of your worries. Drawing inspiration from the snug comfort and protection of wetsuits, our Thaw Tights and Half Tights are built to weather the slushiest days of shoulder season, so you can splash through puddles with toddler-like abandon.</div>
+    </mj-text>
+</mj-column>
+    </mj-section>
+    <!-- product slide -->
+    <mj-section>
+      <mj-column>
+      <mj-image width="564px" href="https://www.google.com/" target="blank" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/ce5f2475-120d-4909-867a-05cfd53513d2.gif" alt="slide of images" />
+      <mj-button href="https://www.google.com/" target="blank" background-color="#E3B151" color="#0A1E32" width="150px" height="30px" font-weight="500">
+          Shop Tights
+      </mj-button>
+        </mj-column>
+    </mj-section>
+    <!-- product description section -->
+    <mj-section padding-top="80px">
+        <mj-column width="300px">
+            <mj-image width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/cb2935c7-3bc4-4b50-8af6-5e853f3961c6.jpeg" alt="product image" />
+        </mj-column>
+            <mj-column width="300px">
+            <mj-image padding-top="40px" width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/5ab257fe-c701-4626-88f9-7fc23986c8ba.jpeg" alt="storage space" />
+            <mj-text font-size="22px">
+                <div class="text-cap">Two large envelope back pockets allow for easy storage of gloves, hat or gels. A zippered pocket on the right hip securely fits most smartphones.<div>
+            </mj-text>
+            </mj-column>
+    </mj-section>
+    <!-- product description 2 section -->
+    <mj-section padding-top="40px">
+            <mj-column width="300px">
+            <mj-image padding-top="40px" width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/e34e3339-7a28-4f65-880f-46209091e934.jpeg" alt="Comfort & Convenience" />
+            <mj-text padding-top="20px" font-size="22px">
+                <div class="text-cap">We designed the tights with a high, wide waistband for maximum comfort. Plus, zippers at the back cuffs make it easy to pull them on and off.</div>
+            </mj-text>
+            </mj-column>
+        <mj-column width="300px">
+            <mj-image width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/9053032d-96ec-4a8e-ba11-5d8b8006891e.jpeg" alt="product image" />
+        </mj-column>
+    </mj-section>
+    <!-- product description 2 section -->
+    <mj-section padding-top="40px">
+        <mj-column width="300px">
+            <mj-image width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/908291ef-6495-4884-a842-fc8615191a64.jpeg" alt="product image" />
+        </mj-column>
+            <mj-column width="300px">
+            <mj-image padding-top="20px" width="264px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/635695a6-54aa-4dfa-af89-514ce5a5d106.jpeg" alt="warm & Dry" />
+            <mj-text padding-top="10px" font-size="22px">
+                <div class="text-cap">For warmth, we used a unique two-sided fabric with plenty of stretch. It’s finished with an eco-dry water and stain-repelling treatment to keep you protected over the course of a messy run.</div>
+            </mj-text>
+            </mj-column>
+    </mj-section>
+    <!-- Maple section -->
+    <mj-section padding-top="70px">
+    <mj-column>
+    <mj-image width="564px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/2d22cd19-b4df-4030-b350-b80d57808e03.jpeg" alt="Maple Season" />
+    <mj-image width="564px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/fad846e0-a5d6-4b77-b3ec-99bf0c4f4a8f.jpeg" alt="Maple Water Cans" />
+    <mj-text padding-top="25px" font-size="20px" line-height="1.3" color="#FFFFFF">
+       <div class="text-cap"> Our Thaw Collection was inspired by Vermont’s Mud Season. On the hunt for less messy exports from the Green Mountain State, we teamed up with Drink Simple to craft a limited-edition version of their sparkling maple water. Drink Simple harnesses the natural infusion power of trees, to create delicious and nutritious maple water naturally full of phytonutrients.</div>
+    </mj-text>
+      <mj-button href="https://www.google.com/" target="blank" background-color="#E3B151" color="#0A1E32" width="200px" height="30px" font-weight="500">
+          Shop Maple Water
+      </mj-button>
+        <mj-image padding-top="60px" width="564px" src="https://d3k81ch9hvuctc.cloudfront.net/company/Qj7sbz/images/f85ecf6d-ba17-400c-96c9-d80754f62cc3.png" alt="Free Shipping, Free Return" />
+</mj-column>
+    </mj-section>
+    <!-- footer -->
+    <mj-section>
+        <mj-column width="200px">
+    <mj-text align="left" color="gray">
+        support@tracksmith.com<br>
++1 781 235 0027<br>
+M—F 9am—5pm EST
+    </mj-text>
+</mj-column>
+        <mj-column width="200px">
+    <mj-text align="left" color="gray">
+        <a href="https://www.google.com/" target="blank" class="no-style">Returns<a><br>
+        <a href="https://www.google.com/" target="blank" class="no-style">Unsubscribe<a>
+    </mj-text>
+</mj-column>
+</mj-column>
+        <mj-column width="200px">
+    <mj-text align="left" color="gray">
+        <a href="https://www.google.com/" target="blank" class="no-style">Facebook<a><br>
+        <a href="https://www.google.com/" target="blank" class="no-style">Instagram<a><br>
+        <a href="https://www.google.com/" target="blank" class="no-style">Twitter<a>
+    </mj-text>
+</mj-column>
+    </mj-section>
+</mj-body>
+</mjml>
+
+
+
+
+
+
+<!-- <mj-column>
+    
+</mj-column> -->
